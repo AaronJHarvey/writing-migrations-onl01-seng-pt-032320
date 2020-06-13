@@ -1,3 +1,5 @@
 class ChangeDatatypeForBirthdate <ActiveRecord::Migration
-  def 
+  def change 
+    
+  end
 end
